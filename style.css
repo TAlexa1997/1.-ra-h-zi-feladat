@@ -22,6 +22,10 @@ table{
     border-collapse: collapse;
 }
 
+th{
+    cursor: pointer;
+}
+
 tr,th,td{
     padding: 10px;
     border: 1px solid black;
