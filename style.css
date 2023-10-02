@@ -1,0 +1,33 @@
+html{
+    background-image: url(26507.jpg);
+    background-size: cover;
+}
+
+h1{
+    font-size: 45px;
+    background-image: linear-gradient(to left, yellow,gold, orange);
+    text-align: right;
+    padding-right: 16%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+
+table{
+    margin-left: 50%;
+    margin-top: 100px;
+    width: 600px;
+    font-size: large;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+tr,th,td{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+footer{
+    padding: 80px;
+    margin-left: 61%;
+}
